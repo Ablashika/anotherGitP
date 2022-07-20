@@ -1,0 +1,14 @@
+p {
+	color: red;
+}
+.ptag{
+	color: green
+}
+ 
+
+ div {
+ 	border:5px dashed grey;
+     height: 500px;
+     width: 400px;
+     border-radius: 20px
+ }
